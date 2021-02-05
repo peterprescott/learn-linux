@@ -156,7 +156,7 @@ command (this will only work if they are empty).
 If you're interested in a deeper understanding of Linux files and folders, then [read
 this](https://peter.upfold.org.uk/blog/2006/07/18/a-guide-to-files-and-folders-on-linux/).
 
-# Files
+## Files
 
 As well as folders, we can create files: `touch firstfile`. (Note that
 technically, the `touch` command just updates the *timestamps* of the file
@@ -171,7 +171,7 @@ discussed) into the file: `echo 'some text' > firstfile`.
 
 Now when you `cat firstfile` it should print out `some text`.
 
-# Scripts
+## Scripts
 
 So we've been learning to talk to the computer in short phrases, and now you can
 use various commands (`echo`, `whoami`, `uname`, `whatis`, `man`, `date`, `pwd`,
@@ -212,7 +212,7 @@ For me, that prints `hello peterprescott`.
 (NB: The `.sh` extension is a convention that shows the file is a shell script, but
 it could run as well if it was just called `script`.)
 
-# Programming
+## Programming
 
 You now know how to program computers! 
 
