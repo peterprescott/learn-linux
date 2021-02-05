@@ -221,8 +221,9 @@ touched very gently on *variables* (in our case `$USER` was a variable -- in the
 shell script language, variables are signified by the `$` sign). And we haven't
 even talked about *functions*, and if-then *control flow*.
 
-But I would recommend that you start engaging with all that in Python rather
-than in Bash...
+But I would recommend that you start engaging with all that in
+[Python](https://docs.python.org/3/tutorial/index.html) rather
+than in [Bash](https://ryanstutorials.net/bash-scripting-tutorial/)...
 
 
 
